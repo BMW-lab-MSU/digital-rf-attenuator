@@ -1,6 +1,6 @@
 # digitial-rf-attenuator
 
-attenuator-control.py can be used to control a Digital Step Attenuator (ZX76-31R5A-SPS+) using a Rhasberry Pi Pico. It must be saved as "main.py" to run on startup. 
+[attenuator-control.py]([url](https://github.com/BMW-lab-MSU/digital-rf-attenuator/blob/main/attenuator-control.py)) can be used to control a Digital Step Attenuator (ZX76-31R5A-SPS+) using a Rhasberry Pi Pico. It must be saved as "main.py" to run on startup. 
 you must manually combine attenuation states to achieve your desired attenuation. this is explained further in the code. 
 
 
